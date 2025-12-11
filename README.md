@@ -1,4 +1,4 @@
-# 🎟️ Concert Booking System -- Python Tkinter GUI
+Concert Booking System -- Python Tkinter GUI
 
 A simple and interactive **Concert Ticket Booking Application** built
 using **Python, Tkinter, CSV handling, and PIL for images**.\
@@ -6,27 +6,23 @@ Users can **sign up / log in**, choose from multiple concerts, view seat
 availability, and book seats across different tiers (VIP / Gold /
 Silver).
 
-## 📸 Screenshots (Concert Posters)
-
-Images used in the GUI: - anirudh.jpg - hip.jpg - str.jpg - vijay.jpg
-
 ------------------------------------------------------------------------
 
-## 🚀 Features
+Features
 
-### 🔐 User Login / Sign-up System
+ User Login / Sign-up System
 
 -   Accounts stored in `users.csv`
 -   Duplicate username protection
 -   Simple authentication
 
-### 🎤 Concert Selection
+ Concert Selection
 
 -   Multiple concerts with posters
 -   VIP / Gold / Silver tiers
 -   Different ticket pricing
 
-### 🪑 Tier-based Seat Booking
+ Tier-based Seat Booking
 
 -   10 seats per tier (2×5 grid)
 -   Colors:
@@ -34,11 +30,11 @@ Images used in the GUI: - anirudh.jpg - hip.jpg - str.jpg - vijay.jpg
     -   Grey → available\
     -   Green → selected
 
-### 💾 CSV Storage
+CSV Storage
 
 -   `concert_bookings.csv` stores all bookings
 
-### 🎉 Booking Confirmation
+ Booking Confirmation
 
 -   Shows selected seats
 -   Calculates total price
@@ -46,7 +42,7 @@ Images used in the GUI: - anirudh.jpg - hip.jpg - str.jpg - vijay.jpg
 
 ------------------------------------------------------------------------
 
-## 📁 Project Structure
+ Project Structure
 
     ConcertBookingSystem/
     │
@@ -61,19 +57,19 @@ Images used in the GUI: - anirudh.jpg - hip.jpg - str.jpg - vijay.jpg
 
 ------------------------------------------------------------------------
 
-## 🛠️ How to Run
+How to Run
 
-### 1️⃣ Install dependencies
+1️⃣ Install dependencies
 
     pip install pillow
 
-### 2️⃣ Run the app
+2️⃣ Run the app
 
     python concertt.py
 
 ------------------------------------------------------------------------
 
-## 💡 Future Improvements
+Future Improvements
 
 -   Payment simulation\
 -   Cancel/modify bookings\
@@ -82,7 +78,7 @@ Images used in the GUI: - anirudh.jpg - hip.jpg - str.jpg - vijay.jpg
 
 ------------------------------------------------------------------------
 
-## 🙌 Credits
+Credits
 
 -   Developed by: **Krithik**
 -   Built using **Python, Tkinter, PIL**
